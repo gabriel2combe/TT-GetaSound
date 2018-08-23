@@ -1,0 +1,31 @@
+body {
+	font-family: 'Roboto', sans-serif !important;
+}
+
+h1 { 
+	font-size: 52px !important;
+	font-weight: bold !important;
+}
+
+#cible h2, #B2B h2 , #B2C h2, #textBox label {
+	font-size: 18px ;
+	font-weight: bold;
+	color: grey;
+}
+
+#cible h3, #B2B h3 , #B2C h3 {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.container {
+	margin: 30px 0 100px 0;
+}
+
+img {
+	padding: 1.5rem;
+}
+
+#B2B, #B2C, #textBox {
+	display:none;
+}
